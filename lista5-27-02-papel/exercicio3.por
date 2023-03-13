@@ -6,6 +6,7 @@ inicio
     //ENTRADAS
     escreva ("\nDigite um número para a: ");
     leia(a);
+    
     escreva ("\nDigite um número para b: ");
     leia(b);
 
